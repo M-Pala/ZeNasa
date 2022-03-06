@@ -52,8 +52,8 @@ function App() {
       alert("Start date should be less than end date")
       return
     }
-    else if((Math.ceil((new Date(endDate)-new Date(startDate)) / (1000 * 60 * 60 * 24)))>5){
-      alert("Please keep date range between 50 days")
+    else if((Math.ceil((new Date(endDate)-new Date(startDate)) / (1000 * 60 * 60 * 24)))>20){
+      alert("Please keep date range between 20 days")
       return
     }
     let newUrl = `https://api.nasa.gov/planetary/apod?api_key=NlmRQaVV7wc89ZkgI84jiCfP9b8byof91LBtWUIF&start_date=${startDate}&end_date=${endDate}`
