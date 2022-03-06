@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ZeNasa/static/css/main.91aaa5b3.css",
+    "main.css": "/ZeNasa/static/css/main.2bf61ece.css",
     "main.js": "/ZeNasa/static/js/main.1f664c4d.js",
     "static/js/787.6f00962d.chunk.js": "/ZeNasa/static/js/787.6f00962d.chunk.js",
     "index.html": "/ZeNasa/index.html",
-    "main.91aaa5b3.css.map": "/ZeNasa/static/css/main.91aaa5b3.css.map",
+    "main.2bf61ece.css.map": "/ZeNasa/static/css/main.2bf61ece.css.map",
     "main.1f664c4d.js.map": "/ZeNasa/static/js/main.1f664c4d.js.map",
     "787.6f00962d.chunk.js.map": "/ZeNasa/static/js/787.6f00962d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.91aaa5b3.css",
+    "static/css/main.2bf61ece.css",
     "static/js/main.1f664c4d.js"
   ]
 }
